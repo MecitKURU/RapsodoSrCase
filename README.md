@@ -1,3 +1,5 @@
+The Unity version used is 2021.3.14
+
 # Dynamic Occlusion With Terrain
 Dynamic occlusion refers to the technique used in Unity to determine how objects within the field of view obstruct each other and whether these objects should be rendered. It is employed to enhance game performance by preventing unnecessary rendering processes. The system dynamically calculates and manages the visibility of objects based on their occlusion, ensuring that only the relevant and visible elements are rendered, thus optimizing the rendering pipeline and improving overall gameplay efficiency.
 
